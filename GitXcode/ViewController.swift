@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
       print("hello, world")
     }
+    
+    var testArray = [96, 83, 54, 12]
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
