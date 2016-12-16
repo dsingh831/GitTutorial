@@ -16,6 +16,7 @@ class ViewController: UIViewController {
     }
     
     var testArray = [96, 83, 54, 12]
+    var testArray2 = [32, 18, 23, 36]
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
